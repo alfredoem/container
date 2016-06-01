@@ -1,2 +1,2 @@
 # container
-IoC
+IoC example

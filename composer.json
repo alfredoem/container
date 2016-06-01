@@ -1,0 +1,23 @@
+{
+    "name": "alfredoem/container",
+    "description": "IoC",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfredo EM",
+            "email": "alfredo.espiritu.m@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8",
+        "mockery/mockery": "^0.9.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alfredoem\\Container\\": "src/"
+        }
+    }
+
+}
