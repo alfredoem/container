@@ -3,7 +3,7 @@
 namespace Alfredoem\Container;
 
 use Exception;
-use Styde\Container;
+use Alfredoem\Container\Container;
 
 abstract class Facade
 {
